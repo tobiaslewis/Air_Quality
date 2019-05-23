@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /Users/jblanchard/Desktop/Github/Air_Quality
+git add .
+git commit -m "added"
+git push
